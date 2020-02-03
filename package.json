@@ -1,0 +1,14 @@
+{
+  "name": "tinymce-component",
+  "version": "1.0.0",
+  "description": "Rich text editor component based on tinymce.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tinymce": "^5.1.6"
+  }
+}
