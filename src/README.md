@@ -96,3 +96,13 @@
 | accept          | 图片类型               | string  | `image/jpeg, image/png` |
 | max-size        | 图片最大               | number  | 2097152                 |
 | withCredentials | 图片上传 Http 认证     | boolean | false                   |
+
+### Event
+
+| 事件               | 说明                         |
+| ------------------ | ---------------------------- |
+| on-ready           | 编辑器初始化完成             |
+| on-input           | 在防抖的基础上，编辑内容更新 |
+| on-destroy         | 编辑器组件处于销毁阶段       |
+| on-upload-fail     | 上传图片失败钩子             |
+| on-upload-complete | 上传图片完成钩子             |

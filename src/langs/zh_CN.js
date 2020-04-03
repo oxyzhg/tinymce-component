@@ -56,7 +56,8 @@ tinymce.addI18n('zh_CN',{
 "Browse for an image": "\u6d4f\u89c8\u56fe\u50cf",
 "OR": "\u6216",
 "Drop an image here": "\u62d6\u653e\u4e00\u5f20\u56fe\u50cf\u81f3\u6b64",
-"Upload": "\u4e0a\u4f20",
+// "Upload": "\u4e0a\u4f20", // FIXME: 上传
+"Upload": "\u672c\u5730\u4e0a\u4f20", // 本地上传
 "Block": "\u5757",
 "Align": "\u5bf9\u9f50",
 "Default": "\u9ed8\u8ba4",
@@ -117,7 +118,8 @@ tinymce.addI18n('zh_CN',{
 "Source": "\u5730\u5740",
 "Dimensions": "\u5927\u5c0f",
 "Constrain proportions": "\u4fdd\u6301\u7eb5\u6a2a\u6bd4",
-"General": "\u666e\u901a",
+// "General": "\u666e\u901a", // FIXME: 普通
+"General": "\u7f51\u7edc\u56fe\u7247", // 网络图片
 "Advanced": "\u9ad8\u7ea7",
 "Style": "\u6837\u5f0f",
 "Vertical space": "\u5782\u76f4\u8fb9\u8ddd",
